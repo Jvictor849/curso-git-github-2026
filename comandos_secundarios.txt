@@ -1,4 +1,4 @@
-esse arquivo contém infos adicionais para git 
+gesse arquivo contém infos adicionais para git 
 
 - Primeiro comando
 - Secundo comando
