@@ -13,4 +13,3 @@ git log -> mostra todo o histórico de commits
 5. git add nome arquivo
 6.git commit
 7. volta para o passo 3.
-teste
